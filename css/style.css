@@ -4039,3 +4039,17 @@ body {
     width: 202px;
     height: 231px;
 }
+/*footer*/
+
+#footer-part .contact-from {
+    background-color: rgb(219, 220, 226);
+    padding: 50px;
+    border-radius: 5px;
+    height: 600px;
+    width: 613px;
+}
+.contact-address {
+    background-color: rgb(219, 220, 226);
+    padding: 20px 50px 50px;
+    border-radius: 5px;
+}
